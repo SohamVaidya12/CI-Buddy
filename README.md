@@ -1,4 +1,7 @@
-# CI-Buddy
+# CI-Buddy 
+<p align="center">
+  <img src="flowchart.png" width="300">
+</p>
 ## 🤖 CI Buddy — Computational Intelligence Chatbot
 ### 📖 Overview
 CI Buddy is an interactive chatbot developed as part of a Computational Intelligence mini project.
