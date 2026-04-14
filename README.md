@@ -1,4 +1,5 @@
-# CI-Buddy 
+# CI-Buddy  
+
 <p align="center">
   <img src="L1.png" width="300">
 </p>
