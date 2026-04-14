@@ -6,11 +6,17 @@
 ---
 
 ## 🤖 CI Buddy — Computational Intelligence Chatbot
+---
 ### 📖 Overview
 CI Buddy is an interactive chatbot developed as part of a Computational Intelligence mini project.
 It integrates machine learning, rule-based reasoning, and external knowledge sources to provide intelligent responses and an engaging user experience.
+
+---
+
 ### 🎯 Objective
 To design and implement a chatbot using Computational Intelligence techniques that can understand user queries, provide meaningful responses, and enhance learning through interaction and quiz-based evaluation.
+
+---
 ### 🚀 Features
 
 1. Intelligent chatbot with rule-based and ML-based responses  
@@ -18,8 +24,9 @@ To design and implement a chatbot using Computational Intelligence techniques th
 3. Voice output support using gTTS  
 4. Interactive quiz module with score tracking  
 5. Chat history displayed in sidebar  
-6. Clean and responsive dark-themed UI  
-
+6. Clean and responsive dark-themed UI
+   
+---
 ### 🧠 Techniques Used
 
 **1. Naive Bayes Classification**  
@@ -43,6 +50,8 @@ Streamlit session state is used to maintain chat history, quiz progress, and use
 **7. Interactive UI Design (Streamlit)**  
 The user interface is built using Streamlit, enabling rapid development of a responsive and interactive web application.
 
+---
+
 ### 🛠️ Technologies Used
 
 **1. Python**  
@@ -62,6 +71,8 @@ Used to fetch real-time information for queries that are not present in the pred
 
 **6. Regular Expressions (re module)**  
 Used for text preprocessing and cleaning, such as removing emojis and improving voice output quality.
+
+---
 
 ### 🧠 System Architecture  
 
@@ -92,6 +103,8 @@ The architecture of CI Buddy follows a hybrid approach combining machine learnin
    - **Text Output** → Displayed in the chatbot interface  
    - **Voice Output (gTTS)** → Converts response into speech
 
+---
+
 ### ⚙️ Installation & Setup  
 
 1. **Clone the repository**
@@ -109,6 +122,8 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+
+---
 
 ### 📸 Output / Results  
 
