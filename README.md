@@ -124,9 +124,10 @@ The following screenshots demonstrate the working of the CI Buddy chatbot system
 </p>
 
 
----
+
 
 These outputs showcase the chatbot’s ability to interact with users, provide intelligent responses, conduct quizzes, and generate voice-based outputs.
+---
 ### 📌 Conclusion  
 
 CI Buddy successfully demonstrates the application of Computational Intelligence techniques in building an interactive chatbot system.  
