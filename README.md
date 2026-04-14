@@ -85,4 +85,14 @@ The architecture of CI Buddy follows a hybrid approach combining machine learnin
 6. **Output Layer**  
    - **Text Output** → Displayed in the chatbot interface  
    - **Voice Output (gTTS)** → Converts response into speech
+### ⚙️ Installation & Setup  
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/your-username/ci-buddy.git
+cd ci-buddy
+2. **Install dependencies**
+pip install -r requirements.txt
+3.Run the application
+streamlit run app.py
 
