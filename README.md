@@ -90,7 +90,7 @@ The architecture of CI Buddy follows a hybrid approach combining machine learnin
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/ci-buddy.git
+git clone https://github.com/SohamVaidya12/CI-Buddy.git
 cd ci-buddy
 ```
 
