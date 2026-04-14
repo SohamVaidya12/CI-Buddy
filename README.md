@@ -110,17 +110,17 @@ The following screenshots demonstrate the working of the CI Buddy chatbot system
 
 #### 🏠 Home Page  
 <p align="center">
-  <img src="home.png" width="80%">
+  <img src="home.png" width="60%">
 </p>
 
 #### 💬 Chat Interface  
 <p align="center">
-  <img src="chat.png" width="80%">
+  <img src="chat.png" width="60%">
 </p>
 
 #### 🧠 Quiz Module  
 <p align="center">
-  <img src="Quiz.png" width="80%">
+  <img src="Quiz.png" width="60%">
 </p>
 
 
