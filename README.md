@@ -61,7 +61,7 @@ Used for text preprocessing and cleaning, such as removing emojis and improving 
 
 The architecture of CI Buddy follows a hybrid approach combining machine learning, rule-based logic, and external knowledge retrieval.
 
-![System Architecture](Conversational AI flowchart diagram.png)
+![System Architecture](flowchart.png)
 
 **Workflow Explanation:**
 
