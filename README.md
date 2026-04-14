@@ -57,5 +57,4 @@ Used to fetch real-time information for queries that are not present in the pred
 **6. Regular Expressions (re module)**  
 Used for text preprocessing and cleaning, such as removing emojis and improving voice output quality.
 
-**7. Standard Python Libraries**  
-Includes modules like `string` and `random` for preprocessing and quiz functionality.
+
