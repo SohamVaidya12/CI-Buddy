@@ -57,4 +57,31 @@ Used to fetch real-time information for queries that are not present in the pred
 **6. Regular Expressions (re module)**  
 Used for text preprocessing and cleaning, such as removing emojis and improving voice output quality.
 
+### 🧠 System Architecture  
+
+The architecture of CI Buddy follows a hybrid approach combining machine learning, rule-based logic, and external knowledge retrieval.
+
+![System Architecture](Conversational AI flowchart diagram.png)
+
+**Workflow Explanation:**
+
+1. **User Input**  
+   The user enters a query through the chatbot interface.
+
+2. **Preprocessing**  
+   The input is cleaned by converting to lowercase and removing punctuation.
+
+3. **Intent Detection (Naive Bayes)**  
+   A machine learning model classifies the user’s intent (e.g., definition, explanation, quiz).
+
+4. **Processing Modules**  
+   - **Rule-Based System** → Handles predefined CI-related queries  
+   - **Wikipedia Module** → Fetches information dynamically for unknown queries  
+
+5. **Response Generation**  
+   The system generates an appropriate response based on the selected module.
+
+6. **Output Layer**  
+   - **Text Output** → Displayed in the chatbot interface  
+   - **Voice Output (gTTS)** → Converts response into speech
 
