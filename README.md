@@ -123,10 +123,6 @@ The following screenshots demonstrate the working of the CI Buddy chatbot system
   <img src="Quiz.png" width="60%">
 </p>
 
-
-
-
-These outputs showcase the chatbot’s ability to interact with users, provide intelligent responses, conduct quizzes, and generate voice-based outputs.
 ---
 ### 📌 Conclusion  
 
