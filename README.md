@@ -123,7 +123,7 @@ The following screenshots demonstrate the working of the CI Buddy chatbot system
   <img src="Quiz.png" width="60%">
 </p>
 
-#### 🧠 Exit Page  
+#### ❌ Exit Page  
 <p align="center">
   <img src="exit.png" width="60%">
 </p>
