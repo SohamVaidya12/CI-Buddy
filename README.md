@@ -36,3 +36,26 @@ Streamlit session state is used to maintain chat history, quiz progress, and use
 
 **7. Interactive UI Design (Streamlit)**  
 The user interface is built using Streamlit, enabling rapid development of a responsive and interactive web application.
+
+### 🛠️ Technologies Used
+
+**1. Python**  
+The core programming language used for implementing the chatbot logic, machine learning model, and overall application flow.
+
+**2. Streamlit**  
+Used to build the interactive web-based user interface, including chatbot interaction, quiz module, and sidebar features.
+
+**3. Scikit-learn**  
+Provides machine learning support, specifically the Naive Bayes algorithm for intent classification of user queries.
+
+**4. gTTS (Google Text-to-Speech)**  
+Used to convert text responses into speech, enabling voice interaction across devices including mobile browsers.
+
+**5. Wikipedia API**  
+Used to fetch real-time information for queries that are not present in the predefined knowledge base.
+
+**6. Regular Expressions (re module)**  
+Used for text preprocessing and cleaning, such as removing emojis and improving voice output quality.
+
+**7. Standard Python Libraries**  
+Includes modules like `string` and `random` for preprocessing and quiz functionality.
