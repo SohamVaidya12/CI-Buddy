@@ -1,7 +1,7 @@
 # CI-Buddy  
 
 <p align="center">
-  <img src="L1.png" width="300">
+  <img src="L1.png" width="500">
 </p>
 ---
 
