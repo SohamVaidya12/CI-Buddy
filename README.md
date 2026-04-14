@@ -61,7 +61,7 @@ Used for text preprocessing and cleaning, such as removing emojis and improving 
 
 The architecture of CI Buddy follows a hybrid approach combining machine learning, rule-based logic, and external knowledge retrieval.
 <p align="center">
-  <img src="flowchart.png" width="700">
+  <img src="flowchart.png" width="500">
 </p>
 
 **Workflow Explanation:**
