@@ -1,6 +1,6 @@
 # CI-Buddy 
 <p align="center">
-  <img src="flowchart.png" width="300">
+  <img src="L1.png" width="300">
 </p>
 ## 🤖 CI Buddy — Computational Intelligence Chatbot
 ### 📖 Overview
