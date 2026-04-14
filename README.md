@@ -85,7 +85,6 @@ The architecture of CI Buddy follows a hybrid approach combining machine learnin
 6. **Output Layer**  
    - **Text Output** → Displayed in the chatbot interface  
    - **Voice Output (gTTS)** → Converts response into speech
-### ⚙️ Installation & Setup  
 
 ### ⚙️ Installation & Setup  
 
