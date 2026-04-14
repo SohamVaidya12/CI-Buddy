@@ -127,3 +127,34 @@ The following screenshots demonstrate the working of the CI Buddy chatbot system
 ---
 
 These outputs showcase the chatbot’s ability to interact with users, provide intelligent responses, conduct quizzes, and generate voice-based outputs.
+### 📌 Conclusion  
+
+CI Buddy successfully demonstrates the application of Computational Intelligence techniques in building an interactive chatbot system.  
+The project integrates machine learning (Naive Bayes), rule-based logic, and external knowledge retrieval to provide meaningful responses to user queries.  
+
+It also enhances user experience through features like voice output, quiz interaction, and chat history tracking.  
+Overall, the system provides a simple yet effective learning platform for understanding key concepts of Computational Intelligence.
+
+However, the current system is deployed locally. This means that the application runs only on the host machine, and once the system (laptop/server) is turned off, the application becomes inaccessible to users.
+
+---
+
+### 🚀 Future Scope  
+
+- **Cloud Deployment**  
+  The application can be deployed on cloud platforms such as Streamlit Cloud, AWS, or Heroku to make it accessible anytime without dependency on a local machine.
+
+- **Advanced NLP Integration**  
+  Incorporating advanced Natural Language Processing models (like transformers or LLMs) can improve understanding of complex user queries.
+
+- **Database Integration**  
+  Storing user interactions and quiz results in a database for better personalization and analytics.
+
+- **Voice Input Support**  
+  Adding speech-to-text functionality to allow users to interact with the chatbot using voice commands.
+
+- **Enhanced UI/UX**  
+  Improving the interface with chat bubbles, animations, and better responsiveness.
+
+- **Expanded Knowledge Base**  
+  Adding more Computational Intelligence topics and structured learning modules.
