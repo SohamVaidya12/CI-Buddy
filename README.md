@@ -87,12 +87,21 @@ The architecture of CI Buddy follows a hybrid approach combining machine learnin
    - **Voice Output (gTTS)** → Converts response into speech
 ### ⚙️ Installation & Setup  
 
+### ⚙️ Installation & Setup  
+
 1. **Clone the repository**
 ```bash
 git clone https://github.com/your-username/ci-buddy.git
 cd ci-buddy
+```
+
 2. **Install dependencies**
+```bash
 pip install -r requirements.txt
-3.Run the application
+```
+
+3. **Run the application**
+```bash
 streamlit run app.py
+```
 
