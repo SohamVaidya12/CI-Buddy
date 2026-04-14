@@ -104,3 +104,26 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+### 📸 Output / Results  
+
+The following screenshots demonstrate the working of the CI Buddy chatbot system:
+
+#### 🏠 Home Page  
+<p align="center">
+  <img src="home.png" width="80%">
+</p>
+
+#### 💬 Chat Interface  
+<p align="center">
+  <img src="chat.png" width="80%">
+</p>
+
+#### 🧠 Quiz Module  
+<p align="center">
+  <img src="Quiz.png" width="80%">
+</p>
+
+
+---
+
+These outputs showcase the chatbot’s ability to interact with users, provide intelligent responses, conduct quizzes, and generate voice-based outputs.
